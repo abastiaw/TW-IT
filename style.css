@@ -1,0 +1,8 @@
+:root {
+  --mainColor: #ff0b02d8;
+  --secondaryColor: #0920f3;
+  --acsentColor: #white;
+}
+body {
+  background-color: var(acsentColor);
+}
